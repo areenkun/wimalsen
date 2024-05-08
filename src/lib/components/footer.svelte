@@ -22,18 +22,8 @@
           {/if}
         {/each}
       <br />
-      Developer Insights Hub
-      <a
-        rel="noopener noreferrer external"
-        target="_blank"
-        class="tooltip tooltip-secondary hover:text-secondary"
-        data-tip="Developer Resource Center"
-        href="https://blog.areen-c.is-a.dev/">
-        (Dev Diary Dump)
-      </a>
-        <br />
       {/if}
-      Copyright © 2019-{footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
+      Copyright © 2024-{footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
         ? `${footerConfig.since} - ${new Date().toJSON().substring(0, 4)}`
         : new Date().toJSON().substring(0, 4)}
        <a
