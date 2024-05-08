@@ -81,11 +81,12 @@ Kegiatan pengabdian masyarakat dengan tema "Mengukuhkan Kepedulian dan Solidarit
 Persiapan dimulai dengan melakukan observasi lapangan untuk memetakan kondisi sosial-ekonomi warga sekitar madrasah. Tim membentuk semacam posko kecil bersama perwakilan guru dan ketua RT setempat untuk melakukan pendataan keluarga kurang mampu yang membutuhkan bantuan. Dari hasil observasi, tercatat 26 kepala keluarga dari 2 RT yang akan menjadi sasaran penerima bantuan.
 
 Tahap selanjutnya adalah pengumpulan donasi dari para siswa MTs Almaarif 01 Singosari. Kegiatan ini dilakukan pada tanggal 1-2 April 2024 oleh mahasiswa KKM dengan berkeliling ke setiap kelas saat jam istirahat. Hasil yang diperoleh cukup menggembirakan, yaitu terkumpul dana sebesar Rp 2.023.000 dari donasi siswa kelas VII, VIII dan IX. Dengan rincian:
-| Kelas | Hari Ke - 1 | Hari Ke - 2 | Total |
-| VII | Rp 302.000 | Rp 253.000 | Rp 555.000 |
-| VIII | Rp 401.500, Rp 219.500 | Rp 621.000 |
-| IX | Rp 487.000 | Rp 360.000 | Rp 847.000 |
-| Total | Rp 2.023.000 |
+
+| Kelas | Hari Ke - 1   | Hari Ke - 2 | Total      |
+| VII   | Rp 302.000    | Rp 253.000  | Rp 555.000 |
+| VIII  | Rp 401.500    | Rp 219.500  | Rp 621.000 |
+| IX    | Rp 487.000    | Rp 360.000  | Rp 847.000 |
+| Total | Rp 2.023.000  |             |            |
 
 Menggunakan dana tersebut, pada 2 April 2024 setelah jam pulang sekolah, panitia yang terdiri dari guru, mahasiswa KKM dan perwakilan siswa berbelanja kebutuhan pokok seperti beras 10 kg, minyak goreng 2 liter, gula 2 kg, mie instan 5 bungkus, kecap, kopi dan teh. Barang-barang tersebut kemudian dikemas menjadi 26 paket sembako yang dibungkus dengan rapi dan diberi stiker MTs Almaarif 01 Singosari.
 
@@ -99,12 +100,13 @@ Lebih dari sekadar angka bantuan yang disalurkan, kegiatan ini memberikan pelaja
 
 
 ## Writer
-![image](/assets/avatar.webp)
-   ```shell
+![image](/assets/arinal.webp)
+   
+   ```
     Nama  : Arinal Haq
     NIM   : 210104110061
     Kontak: https://www.instagram.com/@areen.cx
-    ```
+   ```
 
 
 
