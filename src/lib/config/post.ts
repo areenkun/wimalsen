@@ -5,7 +5,7 @@ export const post: PostConfig = {
         use: ['Giscus'],
         style: 'boxed', // comment system bar styles: none / bordered / lifted / boxed
         giscus: {
-          repo: 'areenkun/blog',
+          repo: 'areenkun/wimalsen',
           repoID: 'R_kgDOL4lp4g',
           category: 'Comments',
           categoryID: 'DIC_kwDOL4lp4s4CfNfe',
@@ -15,5 +15,5 @@ export const post: PostConfig = {
           theme: 'preferred_color_scheme', // theme
           loading: 'lazy',
         }
-      }
+      }    
 }
