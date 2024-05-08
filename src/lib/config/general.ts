@@ -57,7 +57,7 @@ export const head: HeadConfig = {
       ? []
       : [
           // Block Baiduspider
-          '<meta name="keywords" content="Universitas Islam Negeri Maulana Malik Ibrahim Malang, UIN Malang, Community Service, Asistensi Mengajar, KKM, Kuliah Kerja Mahasiswa, Kuliah Kerja Nyata, Areen, areen-c, Areen-kun, areen.cx, areenc, About Areen, Areen el-Haq, js, html, css, website, personal site, blog, jekyll, SvelteKit">'
+          '<meta name="keywords" content="Community Service, Areen, areen-c, Areen-kun, areen.cx, areenc, About Areen, Areen el-Haq, js, html, css, website, personal site, blog, jekyll, SvelteKit, , Universitas Islam Negeri Maulana Malik Ibrahim Malang, UIN Malang, Asistensi Mengajar, KKM, Kuliah Kerja Mahasiswa, Kuliah Kerja Nyata">'
         ],
 }
 
@@ -69,12 +69,12 @@ export const header: HeaderConfig = {
   
   nav: [
     {
-      text: 'Religious Moderation',
-      link: 'https://wimalsen.pages.dev/?tags=Moderasi%20Beragama'
-    },
-    {
       text: 'Social Service',
       link: 'https://wimalsen.pages.dev/?tags=Bakti%20Sosial'
+    },
+    {
+      text: 'About Us',
+      link: 'https://wimalsen.pages.dev/?tags=Moderasi%20Beragama'
     },
     {
       text: 'Others',
