@@ -57,7 +57,7 @@ export const head: HeadConfig = {
       ? []
       : [
           // Block Baiduspider
-          '<meta name="keywords" content="Areen, areen-c, Areen-kun, areen.cx, areenc, About Areen, Areen el-Haq, js, html, css, website, personal site, blog, jekyll, SvelteKit">'
+          '<meta name="keywords" content="Universitas Islam Negeri Maulana Malik Ibrahim Malang, UIN Malang, Community Service, Asistensi Mengajar, KKM, Kuliah Kerja Mahasiswa, Kuliah Kerja Nyata, Areen, areen-c, Areen-kun, areen.cx, areenc, About Areen, Areen el-Haq, js, html, css, website, personal site, blog, jekyll, SvelteKit">'
         ],
 }
 
@@ -69,16 +69,16 @@ export const header: HeaderConfig = {
   
   nav: [
     {
-      text: 'Developer Diaries',
-      link: 'https://blog.areen-c.is-a.dev/'
+      text: 'Religious Moderation',
+      link: 'https://wimalsen.pages.dev/?tags=Moderasi%20Beragama'
     },
     {
-      text: 'Landing Base',
+      text: 'Social Service',
+      link: 'https://wimalsen.pages.dev/?tags=Bakti%20Sosial'
+    },
+    {
+      text: 'Others',
       link: 'https://areen.is-a.dev/'
-    },
-    {
-      text: 'About Me',
-      link: 'https://areen-c.is-a.dev/'
     }
   ]
 }
