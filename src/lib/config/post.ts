@@ -14,7 +14,6 @@ export const post: PostConfig = {
           lang: 'en', // language
           theme: 'preferred_color_scheme', // theme
           loading: 'lazy',
-          crossorigin="anonymous"
         }
       }
 }
