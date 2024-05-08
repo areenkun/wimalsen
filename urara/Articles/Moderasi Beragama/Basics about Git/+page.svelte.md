@@ -1,9 +1,9 @@
 ---
-title: Lomba mading bertemakan moderasi beragama
-created: 2024-01-31
+title: Kegiatan KKM Mahasiswa UIN Malang di MTs Almaarif 01 Singosari
+created: 2024-06-08
 tags: [Lomba, 'Mading', 'Moderasi Beragama', 'Toleransi', 'Islam', 'Community Service', 'UIN Malang', 'Asistensi Mengajar', 'Religious Moderation']
 image: '/assets/banner/diskusi_mading.webp'
-summary: Git a distributed version control system as opposed to a centralized version control system. This means that every developer’s computer stores the entire history (including all old versions) of the entire project! This is rather unlike tools like Google Drive or Dropbox, where old versions are stored on a remote server owned by someone else.
+summary: Berdasarkan hasil implementasi moderasi beragama melalui lomba mading di MTs Almaarif 01 Singosari, dapat disimpulkan bahwa kegiatan pengabdian ini memiliki dampak positif terhadap minat siswa di MTs Almaarif 01 Singosari dalam mengimplementasikan pengetahuan mereka tentang moderasi beragama. Meskipun ada beberapa kendala seperti ketidaktertarikan beberapa siswa dalam lomba ini, diharapkan peneliti selanjutnya dapat membahas terkait menumbuhkan minat belajar moderasi beragama pada generasi muda masa kini. Hal ini akan membuat generasi muda Indonesia menjadi semakin berwawasan dan memiliki rasa toleransi dan saling menghormati satu sama lain.
 ---
 
 # ANALISIS KEGIATAN KKM 
