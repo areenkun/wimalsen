@@ -10,8 +10,8 @@ export const site: SiteConfig = {
   author: {
     avatar: '/assets/avatar.webp',
     name: 'Wimalsen',
-    status: '🦍',
-    bio: 'Bani danang<br> | seblak enak | siomay 🤤 | cireng 5k 3 biji  (•̀ᴗ•́ )و'
+    status: '🤤',
+    bio: 'Bani Danang<br> kumpulan manusia random mangasitwa uin malang di MTs Almaarif 01 Singosari 🦍'
   },
   themeColor: '#3D4451'
 }
