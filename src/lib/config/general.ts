@@ -70,11 +70,11 @@ export const header: HeaderConfig = {
   nav: [
     {
       text: 'Social Service',
-      link: 'https://https://wimalsen.is-cool.dev/?tags=Bakti%20Sosial'
+      link: 'https://wimalsen.is-cool.dev/?tags=Bakti%20Sosial'
     },
     {
       text: 'Religious Moderation',
-      link: 'https://https://wimalsen.is-cool.dev/?tags=Moderasi%20Beragama'
+      link: 'https://wimalsen.is-cool.dev/?tags=Moderasi%20Beragama'
     },
     {
       text: 'Others',
