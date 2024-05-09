@@ -7,7 +7,7 @@ export const post: PostConfig = {
         giscus: {
           repo: 'areenkun/wimalsen',
           repoID: 'R_kgDOL4lp4g',
-          category: 'Comments',
+          category: 'General',
           categoryID: 'DIC_kwDOL4lp4s4CfNfe',
           reactionsEnabled: true, // reactions: true / false
           inputPosition: 'top', // position of comment box: top / bottom
