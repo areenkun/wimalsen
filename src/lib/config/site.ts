@@ -11,7 +11,7 @@ export const site: SiteConfig = {
     avatar: '/assets/avatar.webp',
     name: 'Wimalsen',
     status: '🫠',
-    bio: 'Official website of the Teaching Assistantship MTs Almaarif 01 Singosari<br>Same shit, different number on calendar •⩊•'
+    bio: 'Official website of the <br>Teaching Assistantship MTs Almaarif 01 Singosari'
   },
   themeColor: '#3D4451'
 }
