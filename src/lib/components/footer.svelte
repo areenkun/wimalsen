@@ -30,9 +30,9 @@
         rel="noopener noreferrer external"
         target="_blank"
         class="tooltip tooltip-secondary hover:text-secondary"
-        data-tip="Areen el-Haq"
+        data-tip="Wisdomong Mangerteni Lan Senengi"
         href="https://areen-c.is-a.dev/">
-           · arèén-c ·    
+           · wimalsen ·    
       </a>
       All rights reserved.
       {#if footerConfig.html}
