@@ -97,9 +97,9 @@ Lebih dari sekadar angka bantuan yang disalurkan, kegiatan ini memberikan pelaja
 ![image](/assets/arinal.webp)
    
    ```
-    Nama  : Arinal Haq
-    NIM   : 210104110061
-    Kontak: https://www.instagram.com/@areen.cx
+    Nama   : Arinal Haq
+    NIM    : 210104110061
+    Kontak : ![@areen.cx](https://www.instagram.com/@areen.cx)
    ```
 
 
