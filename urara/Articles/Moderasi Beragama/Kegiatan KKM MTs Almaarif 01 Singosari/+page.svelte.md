@@ -96,10 +96,10 @@ Lebih dari sekadar angka bantuan yang disalurkan, kegiatan ini memberikan pelaja
 ## About Writer
 ![image](/assets/arinal.webp)
    
-   ```
+   ```shell
     Nama   : Arinal Haq
     NIM    : 210104110061
-    Kontak : ![@areen.cx](https://www.instagram.com/@areen.cx)
+    Kontak : https://www.instagram.com/@areen.cx
    ```
 
 
