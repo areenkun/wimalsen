@@ -19,20 +19,21 @@ Dampak positif dari kegiatan bakti sosial ini sangat terasa. Sebanyak 26 paket s
 Kegiatan bakti sosial ini tidak hanya berfokus pada pembagian sembako, tetapi juga melibatkan berbagai tahapan yang terencana dan tersistematis. Pada tahap persiapan, tim KKM dan MTs Almaarif 01 Singosari melakukan observasi lapangan untuk memetakan kondisi sosial-ekonomi warga sekitar. Hasil observasi ini kemudian digunakan untuk mendata keluarga kurang mampu yang menjadi sasaran penerima bantuan.
 
 ![image](/assets/pengemasan.webp)
+> _Pengemasan sembako oleh mahasiswa KKN UIN Malang_
 
 Pengumpulan donasi juga dilakukan secara terorganisir. Mahasiswa KKM berkeliling ke setiap kelas di MTs Almaarif 01 Singosari untuk menggalang dana dari para siswa. Antusiasme para siswa dalam berdonasi cukup tinggi, sehingga terkumpul dana sebesar Rp 2.023.000. Dana ini kemudian digunakan untuk membeli kebutuhan pokok yang dikemas menjadi 26 paket sembako.
-
-![video](/assets/pengumpulan.mp4)
 
 ## Bergotong Royong Penuh Semangat dan Kehangatan
 
 Puncak kegiatan bakti sosial ini adalah pada tanggal 3 April 2024. Pagi hari, para peserta yang terdiri dari mahasiswa KKM, guru MTs Almaarif 01 Singosari, dan perwakilan siswa kelas VII-IX berkumpul di lapangan madrasah untuk mendapat arahan teknis pendistribusian. Setelah briefing singkat, acara dibuka dengan pembacaan doa.
 
 ![image](/assets/pengarahan.webp)
+> _Pengarahan penyaluran sembako oleh guru MTs Almaarif 01 Singosari_
 
 Rombongan kemudian bergerak dengan membawa paket sembako menuju rumah-rumah warga yang telah didata sebelumnya. Suasana penuh keakraban dan kebersamaan terlihat selama proses pendistribusian. Para penerima bantuan menyambut dengan hangat dan mengucapkan rasa terima kasih atas kepedulian tim KKM dan MTs Almaarif 01 Singosari.
 
 ![image](/assets/terimakasih.webp)
+> _Ekspresi bersyukur dan bahagia terpancar dari wajah penerima bantuan saat pendistribusian berlangsung_
 
 ## Lebih dari Sekedar Materi, Menanamkan Budi Pekerti Luhur
 
@@ -41,7 +42,7 @@ Kegiatan bakti sosial ini bukan hanya tentang memberikan bantuan materi kepada m
 Melalui kegiatan ini, para siswa dapat belajar langsung bagaimana pentingnya membantu orang lain dan merasakan kebahagiaan dalam berbagi. Pengalaman ini diharapkan dapat menjadi bekal bagi mereka untuk menjadi generasi muda yang peduli terhadap lingkungan masyarakat dan selalu siap membantu mereka yang membutuhkan.
 
 ## Author   
-   ```shell
+   ```shell title="About Author"
     Nama      : Arinal Haq
     NIM       : 210104110061
     Instagram : https://www.instagram.com/@areen.cx
