@@ -1,5 +1,5 @@
 ---
-title: Melawan Kemiskinan Ekstrim: Inisiatif Baksos Lingkungan Madrasah Tsanawiyah Almaarif 01 Bersama Mahasiswa KKM UIN Malang Membuka Jalan bagi Kesejahteraan Masyarakat Sekitar
+title: Melawan Kemiskinan Ekstrim; Inisiatif Baksos Lingkungan MTs Almaarif 01 Singosari Bersama Mahasiswa KKM UIN Malang, Membuka Jalan bagi Kesejahteraan Masyarakat Sekitar
 created: 2024-05-19
 tags: [bakti, 'sosial', 'bakti sosial', 'Kepedulian Sosial', 'Solidaritas Masyarakat', 'Bantuan Sembako', 'Peduli Sesama', 'Pendidikan Karakter', 'Kegiatan Sosial', 'Community Service', 'UIN Malang', 'Asistensi Mengajar', 'KKM', 'Kuliah Kerja Mahasiswa']
 image: '/assets/pemberangkatan.webp'
