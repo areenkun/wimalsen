@@ -1,12 +1,12 @@
 ---
-title: Inisiatif Baksos Lingkungan MTs Almaarif 01 Singosari Bersama Mahasiswa KKM UIN Malang
+title: Melawan Kemiskinan Ekstrim: Inisiatif Baksos Lingkungan Madrasah Tsanawiyah Almaarif 01 Singosari Bersama Mahasiswa KKM UIN Malang, Membuka Jalan bagi Kesejahteraan Masyarakat Sekitar
 created: 2024-05-19
 tags: [bakti, 'sosial', 'bakti sosial', 'Kepedulian Sosial', 'Solidaritas Masyarakat', 'Bantuan Sembako', 'Peduli Sesama', 'Pendidikan Karakter', 'Kegiatan Sosial', 'Community Service', 'UIN Malang', 'Asistensi Mengajar', 'KKM', 'Kuliah Kerja Mahasiswa']
 image: '/assets/pemberangkatan.webp'
 summary: Di tengah gejolak kemiskinan yang masih ada di sekitar wilayah Madrasah Tsanawiyah Almaarif 01 Singosari, madrasah ini mengadakan inisiatif baksos bersama mahasiswa KKM UIN Malang pada tanggal 3 April 2024 untuk membagikan paket sembako kepada masyarakat yang membutuhkan. Acara ini dimulai pukul 08.00 dengan sambutan perwakilan guru dan penjelasan tujuan dari Ketua Panitia Baksos. Puncak acaranya adalah penyerahan paket sembako kepada masyarakat sekitar, yang diterima dengan senang hati beserta ucapan terima kasih. Acara ditutup dengan doa agar bantuan dapat membantu melewati masa sulit.
 ---
 
-# Melawan Kemiskinan Ekstrim: Inisiatif Baksos Lingkungan Madrasah Tsanawiyah Almaarif 01 Singosari Bersama Mahasiswa KKM UIN Malang, Membuka Jalan bagi Kesejahteraan Masyarakat Sekitar
+## Inisiatif Baksos Lingkungan MTs Almaarif 01 Singosari Bersama Mahasiswa KKM UIN Malang
 
 Malang, 19 Mei 2024 – Di tengah gejolak kemiskinan yang masih ada di sekitar wilayah Madrasah Tsanawiyah Almaarif 01 Singosari, sinar harapan yang terpancar dari sebuah inisiatif bakti sosial (baksos) telah menembus awan kelam yang menghalangi kesejahteraan. Dengan tekad yang bulat dan hati yang tulus, madrasah ini tidak hanya menjadi lembaga pendidikan, tetapi juga menjadi sumber kebaikan bagi masyarakat sekitarnya.
 
@@ -20,7 +20,7 @@ Puncak acara adalah penyerahan paket sembako kepada masyarakat yang berhak mener
 
 Acara ditutup dengan doa agar bantuan tersebut dapat membantu mereka melewati masa sulit, bermanfaat dan barokah. Madrasah Tsanawiyah Almaarif 01 mengajak semua pihak untuk terus berkontribusi dalam membantu masyarakat sekitar.
 
-# Author   
+### Author   
    ```shell title="About Author"
     Nama      : Ilvi Nur Diana Maulida
     NIM       : 210108110062
