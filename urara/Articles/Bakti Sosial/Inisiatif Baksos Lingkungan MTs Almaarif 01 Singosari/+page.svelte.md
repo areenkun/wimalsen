@@ -6,6 +6,8 @@ image: '/assets/pemberangkatan.webp'
 summary: Di tengah gejolak kemiskinan yang masih ada di sekitar wilayah Madrasah Tsanawiyah Almaarif 01 Singosari, madrasah ini mengadakan inisiatif baksos bersama mahasiswa KKM UIN Malang pada tanggal 3 April 2024 untuk membagikan paket sembako kepada masyarakat yang membutuhkan. Acara ini dimulai pukul 08.00 dengan sambutan perwakilan guru dan penjelasan tujuan dari Ketua Panitia Baksos. Puncak acaranya adalah penyerahan paket sembako kepada masyarakat sekitar, yang diterima dengan senang hati beserta ucapan terima kasih. Acara ditutup dengan doa agar bantuan dapat membantu melewati masa sulit.
 ---
 
+# Melawan Kemiskinan Ekstrim: Inisiatif Baksos Lingkungan Madrasah Tsanawiyah Almaarif 01 Singosari Bersama Mahasiswa KKM UIN Malang, Membuka Jalan bagi Kesejahteraan Masyarakat Sekitar
+
 Malang, 19 Mei 2024 – Di tengah gejolak kemiskinan yang masih ada di sekitar wilayah Madrasah Tsanawiyah Almaarif 01 Singosari, sinar harapan yang terpancar dari sebuah inisiatif bakti sosial (baksos) telah menembus awan kelam yang menghalangi kesejahteraan. Dengan tekad yang bulat dan hati yang tulus, madrasah ini tidak hanya menjadi lembaga pendidikan, tetapi juga menjadi sumber kebaikan bagi masyarakat sekitarnya.
 
 Baksos kali ini tidak sekadar sebuah acara rutin, melainkan sebuah panggilan hati untuk bertindak nyata di tengah lapisan-lapisan masyarakat yang paling membutuhkan. Dibawah pimpinan ketua panitia baksos, semangat gotong royong yang melekat pada Madrasah Tsanawiyah Almaarif 01 Singosari terwujud dalam aksi nyata: membagikan paket sembako kepada mereka yang memerlukan.
