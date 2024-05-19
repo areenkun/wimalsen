@@ -7,7 +7,7 @@ summary: Pada tanggal 3 April 2024, MTs Almaarif 01 Singosari menggelar kegiatan
 ---
 ## MTs Almaarif 01 Singosari dan Mahasiswa KKM UIN Maulana Malik Ibrahim Berbagi 26 Paket Sembako
 
-Pada tanggal 3 April 2024, MTs Almaarif 01 Singosari menggelar kegiatan bakti sosial yang melibatkan partisipasi aktif dari mahasiswa Kuliah Kerja Mahasiswa (KKM) UIN Maulana Malik Ibrahim Malang. Kegiatan ini bertujuan untuk membantu masyarakat sekitar yang membutuhkan melalui pembagian paket sembako.
+Malang, 19 Mei 2024 – Pada tanggal 3 April 2024, MTs Almaarif 01 Singosari menggelar kegiatan bakti sosial yang melibatkan partisipasi aktif dari mahasiswa Kuliah Kerja Mahasiswa (KKM) UIN Maulana Malik Ibrahim Malang. Kegiatan ini bertujuan untuk membantu masyarakat sekitar yang membutuhkan melalui pembagian paket sembako.
 
 Bakti sosial ini diadakan di lingkungan MTs Almaarif 01 Singosari dengan harapan dapat meringankan beban warga sekitar. Para siswa dan guru dari MTs Almaarif 01 Singosari bekerja sama dengan mahasiswa KKM UIN Maulana Malik Ibrahim Malang untuk menyukseskan acara tersebut.
 
