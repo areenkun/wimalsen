@@ -6,6 +6,7 @@ image: '/assets/alpi1.jpg'
 summary: Pada tanggal 3 April 2024, Kelompok Kuliah Kerja Mahasiswa UIN Malang melaksanakan kegiatan pengabdian masyarakat berupa lomba mading moderasi beragama di MTs Almaarif 01 Singosari. Acara diawali dengan sosialisasi terlebih dahulu kepada siswa tentang pentingnya moderasi beragama dan kerukunan antar umat beragama. Lomba mading diikuti siswa kelas 7, 8 dan 9 dengan membuat karya mading sesuai tema yang dinilai oleh juri dari aspek relevansi tema, kreativitas, kekompakan dan kerapihan. Terdapat pemenang di setiap kelas dan hadiah diberikan pada pengumuman pemenang pada 17 Mei 2024. Program ini diharapkan dapat meningkatkan pemahaman siswa akan moderasi beragama dan menyalurkan kreativitas siswa.
 ---
 
+## Implementasi Moderasi Beragama melalui Lomba Mading di MTs Almaarif 01 Singosari
 Di era masa kini, penting bagi generasi muda untuk memahami dan mengimplementasikan moderasi beragama dalam kehidupan sehari-hari. Hal ini sangat diperlukan mengingat dalam era globalisasi ini,keberagaman menjadi semakin nyata dan relevan dalam konteks kehidupan masyarakat. Keberagaman agama merupakan salah satu aspek yang krusial dalam dinamika sosial yang mempengaruhi cara individu memandang dunia, bertindak, dan berinteraksi satu sama lain. Implementasi moderasi beragama dapat diwujudkan salah satunya melalui pengabdian masyarakat yang dilakukan di MTs Almaarif 01 Singosari oleh Kelompok Kuliah Kerja Mahasiswa UIN Malang.
 
 Kegiatan ini dilaksanakan di MTs Almaarif 01 Singosari dalam rangka melaksanakan kegiatan Pondok Ramadhan di bulan suci Ramadhan yang mulia. Pada tahap awal, tim penyelenggara lomba Mading Moderasi Beragama dibentuk dengan tujuan untuk memastikan representasi yang inklusif dalam perencanaan dan pelaksanaan kegiatan. Tim ini terdiri dari mahasiswa KKM UIN Malang. Setelah tim penyelenggara terbentuk, langkah selanjutnya adalah melakukan sosialisasi kepada siswa MTs Almaarif 01 Singosari. Sosialisasi ini bertujuan untuk meningkatkan pemahaman dan kesadaran siswa tentang moderasi beragama serta pentingnya menghormati perbedaan agama dan kepercayaan.
@@ -47,7 +48,7 @@ Pemenang lomba diumumkan setelah apel dan para perwakilan kelas pemenang maju ke
 
 Kelompok KKM UIN Malang berharap program ini dapat membuat siswa semakin sadar akan pentingnya menerapkan moderasi beragama dalam kehidupan sehari-hari dan siswa dapat mengembangkan dan menyalurkan bakat kreatif mereka seperti menggambar dan mewarnai melalui lomba ini. Diharapkan kedepannya, madrasah juga dapat mengadakan kegiatan serupa agar siswa dapat menyalurkan bakat dan minat mereka.
 
-## Author   
+### Author   
    ```shell title="About Author"
     Nama      : Alfi Nur Nadiva Soetam Rizky
     NIM       : 210107110067
