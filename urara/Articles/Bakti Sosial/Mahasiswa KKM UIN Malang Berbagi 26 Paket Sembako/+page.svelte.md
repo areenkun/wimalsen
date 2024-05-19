@@ -13,6 +13,7 @@ Bakti sosial ini diadakan di lingkungan MTs Almaarif 01 Singosari dengan harapan
 
 ![image](/assets/pengemasan.webp)
 > _Pengemasan paket sembako oleh mahasiswa KKM UIN Malang_
+
 Sebanyak 26 paket sembako disiapkan dan dibagikan kepada warga yang membutuhkan. Paket-paket sembako ini berisi bahan-bahan pokok yang diharapkan dapat membantu kebutuhan sehari-hari penerima bantuan.
 
 Dana untuk pengadaan paket sembako ini berasal dari hasil penggalangan dana yang dilakukan oleh siswa dan guru MTs Almaarif 01 Singosari, serta mahasiswa KKM UIN Maulana Malik Ibrahim Malang. Penggalangan dana ini menunjukkan semangat gotong royong dan kepedulian sosial yang tinggi dari seluruh pihak yang terlibat.
