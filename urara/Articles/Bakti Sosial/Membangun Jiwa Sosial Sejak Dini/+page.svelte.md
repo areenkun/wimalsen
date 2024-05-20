@@ -21,7 +21,7 @@ Kegiatan bakti sosial tidak hanya memberikan manfaat bagi mereka yang menerima b
 
 ## Author   
    ```shell title="About Author"
-    Nama      : Fina Salsabila Amanah
+    Nama      : Fina Sabila Amanah
     NIM       : 210102110014
     Instagram : https://www.instagram.com/@finasabilah__
    ```
