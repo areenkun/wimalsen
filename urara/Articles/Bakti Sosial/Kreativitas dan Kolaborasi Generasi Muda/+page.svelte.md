@@ -3,7 +3,7 @@ title: Bakti Sosial MTS Almaarif 01 Singosari; Kreativitas dan Kolaborasi Genera
 created: 2024-05-21
 tags: [bakti, 'sosial', 'bakti sosial', 'Kepedulian Sosial', 'Solidaritas Masyarakat', 'Bantuan Sembako', 'Peduli Sesama', 'Pendidikan Karakter', 'Kegiatan Sosial', 'Community Service', 'UIN Malang', 'Asistensi Mengajar', 'KKM', 'Kuliah Kerja Mahasiswa']
 image: '/assets/dyan2.webp'
-summary: Bakti sosial yang diselenggarakan oleh Kuliah Kerja Mahasiswa (KKM) UIN Malang dan MTs Almaarif 01 Singosari bertujuan untuk membantu meringankan beban masyarakat kurang mampu, menumbuhkan rasa simpati dan empati, serta memperkuat solidaritas masyarakat dengan membagikan 26 paket sembako kepada keluarga prasejahtera di sekitar sekolah setelah melalui proses persiapan yang matang meliputi observasi lapangan, penggalangan dana dari siswa, pengadaan sembako, hingga pendistribusian langsung yang dilakukan dengan semangat kebersamaan dan diharapkan dapat menanamkan nilai-nilai luhur seperti kepedulian dan semangat berbagi kepada para siswa.
+summary: Kegiatan bakti sosial yang dilakukan oleh Kelompok Kuliah Kerja Mahasiswa UIN Malang di MTs Almaarif 01 Singosari pada 3 April 2024 berjalan dengan baik dan penuh semangat kerja sama. Para siswa diajak untuk memahami pentingnya kepedulian sosial melalui diskusi kelompok dan permainan peran. Mereka kemudian diberdayakan untuk merencanakan kegiatan bakti sosial secara kreatif dalam kelompok-kelompok kecil. Pada hari pelaksanaan, siswa bekerja sama dengan penuh antusiasme untuk merealisasikan ide-ide mereka sambil saling membantu dan menciptakan iklim kerja sama. Kegiatan ini tidak hanya mengasah kreativitas dan kepedulian sosial siswa, tetapi juga nilai-nilai kerja tim dan masa depan yang lebih baik.
 ---
 
 ## Kreativitas dan Kolaborasi Generasi Muda Menuju Masa Depan Lebih Baik
@@ -25,7 +25,7 @@ Sementara itu, para panitia dari Kelompok Kuliah Kerja Mahasiswa (KKM) UIN Malan
 
 Pada hari pelaksanaan kegiatan, suasana di MTs Almaarif 01 Singosari dipenuhi dengan semangat dan antusiasme. Para siswa dengan penuh semangat bekerja sama untuk mewujudkan ide-ide kreatif mereka menjadi karya nyata. Mereka saling membantu dan memberikan dukungan satu sama lain, menciptakan iklim kerja yang harmonis dan penuh kebersamaan. Setiap kelas menunjukkan dedikasi tinggi dalam menyusun mading dan menghiasi ruang kelas dengan tema bakti sosial yang mereka usung. Dengan begitu, kegiatan ini tidak hanya menjadi ajang untuk mengasah kreativitas, tetapi juga memupuk nilai-nilai kepedulian sosial dan kerja sama tim yang penting untuk masa depan yang lebih baik.
 
-## Author   
+### Author   
    ```shell title="About Author"
     Nama      : Saviestya Dyan Ramadani
     NIM       : 210102110117
