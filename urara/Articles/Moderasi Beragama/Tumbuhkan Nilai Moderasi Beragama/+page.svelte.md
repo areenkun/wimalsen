@@ -1,10 +1,11 @@
 ---
 title: Tumbuhkan Nilai-nilai Moderasi Beragama Melalui Kegiatan Lomba Majalah Dinding di MTs Almaarif 01 Singosari
 created: 2024-05-29
-tags: [bakti, 'sosial', 'bakti sosial', 'Kepedulian Sosial', 'Solidaritas Masyarakat', 'Bantuan Sembako', 'Peduli Sesama', 'Pendidikan Karakter', 'Kegiatan Sosial', 'Community Service', 'UIN Malang', 'Asistensi Mengajar', 'KKM', 'Kuliah Kerja Mahasiswa']
+tags: [Lomba, 'Mading', 'Moderasi Beragama', 'Toleransi', 'Islam', 'Community Service', 'UIN Malang', 'Asistensi Mengajar', 'Religious Moderation', 'Asistensi Mengajar', 'KKM', 'Kuliah Kerja Mahasiswa']
 image: '/assets/iqbal4.webp'
-summary: Bakti sosial yang diselenggarakan oleh Kuliah Kerja Mahasiswa (KKM) UIN Malang dan MTs Almaarif 01 Singosari bertujuan untuk membantu meringankan beban masyarakat kurang mampu, menumbuhkan rasa simpati dan empati, serta memperkuat solidaritas masyarakat dengan membagikan 26 paket sembako kepada keluarga prasejahtera di sekitar sekolah setelah melalui proses persiapan yang matang meliputi observasi lapangan, penggalangan dana dari siswa, pengadaan sembako, hingga pendistribusian langsung yang dilakukan dengan semangat kebersamaan dan diharapkan dapat menanamkan nilai-nilai luhur seperti kepedulian dan semangat berbagi kepada para siswa.
+summary: Kegiatan moderasi beragama ini berupa lomba majalah dinding dengan tema moderasi beragama yang diikuti siswa kelas 7, 8 dan 9 MTs Almaarif 01 Singosari. Lomba ini merupakan bagian dari kegiatan Pondok Ramadhan yang diselenggarakan sekolah beserta AM KKM dari 1-3 April. Para siswa tampak antusias mengikuti lomba ini meskipun beberapa kelas kehadiran siswanya rendah. Pemenang diambil untuk setiap jenjang kelas dan hadiah diberikan kepada juara 1, 2 dan 3. Kegiatan moderasi beragama dianggap penting untuk membentuk sikap toleransi beragama sejak dini.
 ---
+
 ## Tumbuhkan Nilai-nilai Moderasi Beragama Melalui Kegiatan Lomba Majalah Dinding
 
 Malang, 29 Mei 2024 – Rabu, 3 April 2024. Di tengah kemeriahan bulan suci Ramadhan pihak sekolah bersama kelompok AM KKM MTs Almaarif 01 singosari menggelar kegiatan yang sangat meriah. Yakni lomba majalah dinding dengan tema moderasi beragama. Kegiatan ini di ikuti oleh seluruh siswa dari kelas 7, 8, dan 9. Rangkaian kegiatan ini terkumpul dalam kegiatan pondok Ramadhan yang diawali pada hari senin, 1 april hingga rabu 3, april. 
