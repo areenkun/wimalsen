@@ -5,6 +5,7 @@ tags: [bakti, 'sosial', 'bakti sosial', 'Kepedulian Sosial', 'Solidaritas Masyar
 image: '/assets/pengemasan.webp'
 summary: Bakti sosial yang diselenggarakan oleh Kuliah Kerja Mahasiswa (KKM) UIN Malang dan MTs Almaarif 01 Singosari bertujuan untuk membantu meringankan beban masyarakat kurang mampu, menumbuhkan rasa simpati dan empati, serta memperkuat solidaritas masyarakat dengan membagikan 26 paket sembako kepada keluarga prasejahtera di sekitar sekolah setelah melalui proses persiapan yang matang meliputi observasi lapangan, penggalangan dana dari siswa, pengadaan sembako, hingga pendistribusian langsung yang dilakukan dengan semangat kebersamaan dan diharapkan dapat menanamkan nilai-nilai luhur seperti kepedulian dan semangat berbagi kepada para siswa.
 ---
+## Bakti Sosial Bukti Kepedulian Siswa Terhadap Warga
 
 Malang, 21 Mei 2024 – Bakti sosial berupa pembagian sembako oleh siswa MTS Almaarif 01 singosari dan mahasiswa KKM UIN maulana malik Ibrahim malang merupakan salah satu bentuk nyata kepedulian terhadap warga sekitar. Kegiatan ini tidak hanya menunjukkan rasa empati dan solidaritas para siswa, tetapi juga menjadi sarana pembelajaran yang sangat berharga bagi mereka dalam mengembangkan karakter sosial dan tanggung jawab terhadap sesama.
 
@@ -18,7 +19,7 @@ Lebih jauh lagi, kegiatan ini juga memperkuat hubungan antara sekolah dan masyar
 
 Secara keseluruhan, bakti sosial sembako yang dilakukan oleh siswa MTS Almaarif 01 singosari merupakan wujud konkret dari nilai-nilai kemanusiaan yang diajarkan di sekolah. Kegiatan ini tidak hanya bermanfaat bagi penerima bantuan, tetapi juga memberikan pengalaman berharga bagi siswa dalam mengembangkan empati, rasa tanggung jawab, dan semangat kebersamaan. Melalui kegiatan semacam ini, diharapkan generasi muda dapat tumbuh menjadi pribadi yang peduli dan siap berkontribusi bagi kebaikan masyarakat luas.
 
-## Author   
+### Author   
    ```shell title="About Author"
     Nama      : Hanhan Hanifah
     NIM       : 210102110024
