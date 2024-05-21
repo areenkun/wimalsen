@@ -1,10 +1,11 @@
 ---
-title: BAKTI SOSIAL BUKTI KEPEDULIAN SISWA MTS ALMAARIF 01 SINGOSARI TERHADAP WARGA
+title: Bakti Sosial Bukti Kepedulian Siswa MTs Almaarif 01 Singosari Terhadap Warga
 created: 2024-05-21
 tags: [bakti, 'sosial', 'bakti sosial', 'Kepedulian Sosial', 'Solidaritas Masyarakat', 'Bantuan Sembako', 'Peduli Sesama', 'Pendidikan Karakter', 'Kegiatan Sosial', 'Community Service', 'UIN Malang', 'Asistensi Mengajar', 'KKM', 'Kuliah Kerja Mahasiswa']
 image: '/assets/pengemasan.webp'
-summary: Bakti sosial yang diselenggarakan oleh Kuliah Kerja Mahasiswa (KKM) UIN Malang dan MTs Almaarif 01 Singosari bertujuan untuk membantu meringankan beban masyarakat kurang mampu, menumbuhkan rasa simpati dan empati, serta memperkuat solidaritas masyarakat dengan membagikan 26 paket sembako kepada keluarga prasejahtera di sekitar sekolah setelah melalui proses persiapan yang matang meliputi observasi lapangan, penggalangan dana dari siswa, pengadaan sembako, hingga pendistribusian langsung yang dilakukan dengan semangat kebersamaan dan diharapkan dapat menanamkan nilai-nilai luhur seperti kepedulian dan semangat berbagi kepada para siswa.
+summary: Kegiatan bakti sosial berupa pembagian sembako oleh siswa MTS Almaarif 01 singosari dan mahasiswa KKM UIN maulana malik Ibrahim malang merupakan salah satu bentuk nyata kepedulian terhadap warga sekitar. Melalui kegiatan ini, siswa diajak untuk terjun langsung ke lapangan, melihat dan merasakan kondisi nyata yang dihadapi oleh masyarakat sekitar. Pengalaman ini diharapkan dapat menumbuhkan rasa syukur dan kepedulian yang lebih dalam di kalangan siswa. Selain itu, kegiatan bakti sosial seperti ini juga mengajarkan nilai-nilai penting lainnya, seperti kerja sama dan gotong royong.
 ---
+
 ## Bakti Sosial Bukti Kepedulian Siswa Terhadap Warga
 
 Malang, 21 Mei 2024 – Bakti sosial berupa pembagian sembako oleh siswa MTS Almaarif 01 singosari dan mahasiswa KKM UIN maulana malik Ibrahim malang merupakan salah satu bentuk nyata kepedulian terhadap warga sekitar. Kegiatan ini tidak hanya menunjukkan rasa empati dan solidaritas para siswa, tetapi juga menjadi sarana pembelajaran yang sangat berharga bagi mereka dalam mengembangkan karakter sosial dan tanggung jawab terhadap sesama.
