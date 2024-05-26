@@ -22,7 +22,7 @@ Acara dimulai dengan pembukaan dan pengarahan kegiatan bakti sosial yang dilakuk
 Kegiatan ini diharapkan dapat memberikan manfaat yang besar bagi masyarakat sekitar dan khususnya para siswa agar lebih menjadi pribadi yang selalu bersyukur sekaligus menjadi inspirasi bagi kegiatan-kegiatan sosial lainnya.
 
 
-## Author   
+### Author   
    ```shell title="About Author"
     Nama      : Danang Adi Surya
     NIM       : 210101110135
